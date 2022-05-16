@@ -55,11 +55,13 @@
 }
 
 .location li .card {
+
   width: 100%;
   border: 1px solid silver;
   padding: 10px;
   border-radius: 10px;
   background-color: #062226;
+
 }
 
 .location li .card img {
@@ -91,4 +93,8 @@ input {
   color: white;
   text-align: center;
   font-size: 15px;
+}
+
+.card {
+  box-shadow: 2px 2px 2px white;
 }
